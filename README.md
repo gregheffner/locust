@@ -4,8 +4,11 @@ This README will guide you through the process of downloading and configuring th
 
 ## Downloading Locust
 
-First, download the Locust app from the official repository and run it:
-
+First, download my repo and Locust app from the official repository and run it:
+```sh
+git clone https://github.com/gregheffner/locust.git
+cd locust
+```
 ```sh
 pip install locust
 locust
@@ -14,6 +17,7 @@ locust
 ## Usage
 
 To start the Locust workers on a Mac M2 with 8 cores, use the following commands:
+
 ```sh
 locust -f locustfile.py --worker --master-host=127.0.0.1 --expect-workers=8
 ```
