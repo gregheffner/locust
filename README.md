@@ -1,19 +1,15 @@
-# Locust Load Testing
+# Locust App
 
-This repository contains scripts for load testing using Locust.
+This README will guide you through the process of downloading and configuring the Locust app.
 
-## Prerequisites
+## Downloading Locust
 
-- Python 3.7+
-- Locust
+First, download the Locust app from the official repository:
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/gregheffner/locust.git
-    cd locust
-    ```
+```sh
+git clone https://github.com/locustio/locust.git
+cd locust
+```
 
 ## Usage
 
@@ -25,10 +21,10 @@ locust -f locustfile.py --worker --master-host=127.0.0.1 --expect-workers=8
 chmod + x start_workers.sh && /.start_workers.sh
 ```
 
-## Contributing
+## Configuration
 
-Feel free to submit issues or pull requests if you have any improvements or bug fixes.
+Save your changes and run Locust again to see the effects of your configuration.
 
-## License
+## Documentation
 
-This project is licensed under the MIT License.
+For more detailed information, please refer to the [official Locust documentation](https://docs.locust.io/en/stable/).
