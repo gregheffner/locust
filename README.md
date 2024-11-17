@@ -11,7 +11,6 @@ cd locust
 ```
 ```sh
 pip install locust
-locust
 ```
 
 ## Usage
