@@ -4,11 +4,11 @@ This README will guide you through the process of downloading and configuring th
 
 ## Downloading Locust
 
-First, download the Locust app from the official repository:
+First, download the Locust app from the official repository and run it:
 
 ```sh
-git clone https://github.com/locustio/locust.git
-cd locust
+pip install locust
+locust
 ```
 
 ## Usage
