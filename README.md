@@ -28,6 +28,9 @@ chmod + x start_workers.sh && /.start_workers.sh
 ```sh
 locust -f locustfile.py --worker --master-host=127.0.0.1 --expect-workers=8
 ```
+```sh
+Starting web interface at http://0.0.0.0:8089
+```
 
 ## Load Test Results
 
