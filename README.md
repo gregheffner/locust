@@ -24,6 +24,12 @@ locust -f locustfile.py --worker --master-host=127.0.0.1 --expect-workers=8
 chmod + x start_workers.sh && /.start_workers.sh
 ```
 
+## Load Test Results
+
+Here is an example of the load test results:
+
+![Load Test Results](load_test.png)
+
 ## Configuration
 
 Save your changes and run Locust again to see the effects of your configuration.
