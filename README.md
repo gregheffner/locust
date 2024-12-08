@@ -1,5 +1,10 @@
 # Locust App
 
+https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white
+https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white
+https://badgen.net/badge/Locust/Testing/green?
+
+
 This README will guide you through the process of downloading and configuring the Locust app.
 
 ## Downloading Locust
@@ -29,10 +34,6 @@ chmod + x start_workers.sh && /.start_workers.sh
 Here is an example of the load test results:
 
 ![Load Test Results](load_test.png)
-
-## Configuration
-
-Save your changes and run Locust again to see the effects of your configuration.
 
 ## Documentation
 
