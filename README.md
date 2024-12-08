@@ -7,6 +7,9 @@
 
 This README will guide you through the process of downloading and configuring the Locust app.
 
+## Blog
+Check out the blog write-up about this at https://greg.heffner.live/image/pages/2024/Sept/smoketest.html
+
 ## Downloading Locust
 
 First, download my repo and Locust app from the official repository and run it:
