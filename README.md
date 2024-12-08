@@ -1,8 +1,8 @@
 # Locust App
 
-https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white
-https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white
-https://badgen.net/badge/Locust/Testing/green?
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+![Locust Testing](https://badgen.net/badge/Locust/Testing/green?)
 
 
 This README will guide you through the process of downloading and configuring the Locust app.
